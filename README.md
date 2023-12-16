@@ -1,2 +1,3 @@
-# The Odin Project - CV
-CV Application using React
+# The Odin Project - CV Application
+
+CV application on "The Odin Project" built with React
